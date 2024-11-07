@@ -66,7 +66,7 @@ Since 5.83 is not a whole number, 175 is **not** a multiple of 30, making this c
 
    ![](./img/05.png)
 
-7. After clicking on the icon, a confirmation pop-up will appear. Click OK to confirm the action.
+7. After clicking on the icon, a confirmation pop-up will appear. Click **OK** to confirm the action.
 
    ![](./img/06.png)
 
