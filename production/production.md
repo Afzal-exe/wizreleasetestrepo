@@ -62,3 +62,14 @@ Since 5.83 is not a whole number, 175 is **not** a multiple of 30, making this c
 
    ![](./img/04.png)
 
+6. To extend the duration of the lab, click on the highlighted icon located at the **top right corner of the page.** 
+
+   ![](./img/05.png)
+
+7. After clicking on the icon, a confirmation pop-up will appear. Click OK to confirm the action.
+
+   ![](./img/06.png)
+
+8. Finally, a confirmation message will display on the page, and a notification will be sent to your instructor.
+
+   ![](./img/07.png)
