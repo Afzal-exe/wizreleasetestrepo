@@ -66,16 +66,6 @@ Since 5.83 is not a whole number, 175 is **not** a multiple of 30, making this c
 
    ![](./img/04.png)
 
-5. Once the ODL is submitted, click on the **Hot Instance** button.
 
-   ![](./img/05.png)
-
-6. Next, click on the **+ ADD button (1)** and provide the **Number of Hot Instances (2)** needed. Then click on the **Add (3)** button.
-
-   ![](./img/06.png)
-
-7. Once the hot instances are added, below is the output for all the regions.
-
-   ![](./img/07.png)
 
 
