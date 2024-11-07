@@ -27,7 +27,7 @@
    ![](./img/03.png)
 
 
-
+---
 **Note:** The Max Limit should be an exact multiple of the Allowed Extend Duration to ensure that any extensions granted follow a consistent, repeatable pattern without remainder.
 
 
