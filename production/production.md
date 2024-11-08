@@ -43,8 +43,6 @@ For the setting to be valid, the **Max Limit (180 minutes)** should be evenly di
 
 Since 6 is a whole number, 180 is a multiple of 30, so this configuration is **valid**.
 
----
-
 ### Example of an Invalid Configuration
 
 Now, let’s try with:
