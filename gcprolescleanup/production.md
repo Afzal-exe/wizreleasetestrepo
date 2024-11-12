@@ -1,4 +1,4 @@
-# clean up for GCP roles
+# Clean up for GCP Roles
 
 ## Feature Requirement
 Implement the attendee resource clean-up for the below list.
