@@ -22,9 +22,9 @@ Before enabling and configuring the duration extension feature in ODL, ensure yo
 
    ![](./img/02.png)
 
-4. Select the required duration parameters from the dropdowns for **Max Limit of Duration Extension by User** and **Allowed Extend Duration By Attendee** with appropriate values.
+4. Select the required duration parameters from the dropdowns for **Max Limit of Duration Extension by User.** Once selected, the **Allowed Extend Duration by Attendee** option will be automatically chosen based on the above selection. Now, provide the appropriate duration based on your selection.
 
-   ![](./img/03.png)
+   ![](./img/02_2.png)
 
 ---
 
