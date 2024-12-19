@@ -38,4 +38,5 @@ To implement this feature, follow the code snippets below. Replace placeholders 
 The above inject keys will render a Getting Started section with dynamically populated user-specific details. Below is an example image of the output:
 
 *(Refer to the attached sample image for how it will appear.)*
+
 ![](images/01.png)
