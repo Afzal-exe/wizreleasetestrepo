@@ -13,6 +13,7 @@ This feature allows users to easily increase or decrease the size of the font on
 ![](images/01.png)
 ### Step 2: Access the Size Adjustment Option
 1. On the Environment Page, find the Font Size Adjustment button represented by the **"A ↕ 100%"** icon in the top navigation bar (see the below image).
+
 ![](images/02.png)
 ### Step 3: Adjust the Font Size
 1. Click on the **Font Size Adjustment** button to open a dropdown menu.
